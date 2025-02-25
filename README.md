@@ -26,7 +26,10 @@ git clone https://github.com/AkhileshPokale30/open-course-assignment.git
 Navigate into the project folder and install required dependencies:
 ```sh
 cd open-course-assignment
+cd my-app
 npm install
+npm install react-scripts --save
+npm install react-icons
 ```
 
 ### **3️⃣ Start the Development Server**
